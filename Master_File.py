@@ -1,3 +1,8 @@
+#Elijah Payne, Jose Rodarte, Angel Martinez
+#group 1
+#cse 5408
+#spring 2023
+#lab 4
 import datetime
 
 
@@ -27,3 +32,14 @@ if num > 1:
 #if the number is less than or equal to 1 it is not prime
 else:
     print(num, "is not prime")
+    
+    
+    #Jose Rodarte
+    #005985950
+
+    #asks the user for string
+    name = input ("type something:")
+
+
+    #prints the reverse
+    print("".join(reversed(name)))
